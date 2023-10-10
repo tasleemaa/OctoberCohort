@@ -1,0 +1,99 @@
+
+
+header ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: center ;
+    background-color: bisque;
+
+
+}
+
+header ul li a:hover{
+    border-bottom: solid burlywood 1px;
+}
+
+header ul li a{
+    text-decoration: none;
+    color: black;
+    padding: 10px 20px;
+
+}
+
+
+body{
+    margin: auto;
+    text-align: center;
+    margin-right: 30px;
+    margin-left: 30px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    border: 2px solid bisque ;
+    padding: 20px 50px ;
+    background-color: beige;
+
+}
+
+body header{
+    background-color: burlywood;
+    margin-top: 10px;
+
+}
+
+body div{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+}
+
+.allparagraphs{
+    display: flex;
+    justify-content: center;
+
+}
+
+.firstparagraph{
+    border: 1px solid burlywood;
+    padding: 50px 50px;
+    margin-right: 50px;
+    align-items: baseline;
+}
+
+.secondparagraph{
+    border: 1px solid burlywood;
+    padding: 50px 50px;
+    align-items: baseline;
+
+}
+
+.thirdparagraph{
+    border: 1px solid burlywood;
+    padding: 50px 50px;
+    margin-left: 50px;
+    align-items: baseline;
+   
+}
+
+
+nav ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: center ;
+
+}
+
+nav ul li:hover{
+    border-bottom: solid burlywood 1px;
+
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: black;
+    padding: 10px 20px;
+    margin: 20px;
+}
+
+img{
+    width: 100%
+}
